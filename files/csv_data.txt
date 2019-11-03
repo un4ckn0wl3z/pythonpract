@@ -1,0 +1,4 @@
+name,age,university,degree
+anuwat,24,rmutsv,comsci
+pansa,25,rmutsv,comsci
+surachad,25,rmutsv,industech

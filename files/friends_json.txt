@@ -1,0 +1,15 @@
+{
+	"friends": [{
+			"name": "Anuwat",
+			"degree": "Computer Science"
+		},
+		{
+			"name": "Pansa",
+			"degree": "Computer Science"
+		},
+		{
+			"name": "Surachad",
+			"degree": "Industrial Technology"
+		}
+	]
+}
